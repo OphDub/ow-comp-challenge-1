@@ -4,11 +4,15 @@ This static comp challenge required creating a website that followed the basic l
 
 ## Base Requirements
 
-*Basic static site setup with index.html and styles.css*
-*Site must be responsive (viewable on a mobile device or desktop)*
-*Create a repo on github :octocat: for your work with following naming construct: [initials]-comp-challenge-[challenge number] (i.e. “bt-comp-challenge-1”)*
-*Include a README with the repo providing brief overview of the project, and images of both the original comp and your version.*
-*Push final work to github pages*
+*Basic static site setup with index.html and styles.css
+
+*Site must be responsive (viewable on a mobile device or desktop)
+
+*Create a repo on github :octocat: for your work with following naming construct: [initials]-comp-challenge-[challenge number] (i.e. “bt-comp-challenge-1”)
+
+*Include a README with the repo providing brief overview of the project, and images of both the original comp and your version.
+
+*Push final work to github pages
 
 ## Original Comp Example
 
