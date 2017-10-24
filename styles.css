@@ -144,6 +144,15 @@ a {
 	display: flex;
 }
 
+.josh-bio {
+	align-content: flex-start;
+	line-height: 150%;
+}
+
+.josh-bio h1 {
+	padding-bottom: 15px;
+}
+
 .button-group {
 	justify-content: space-between;
 }
@@ -191,6 +200,15 @@ a {
 
 	.photo-banner .fa-chevron-circle-left {
 		font-size: 20px;
+	}
+
+	.josh-bio {
+		align-content: flex-start;
+		line-height: 150%;
+	}
+
+	.josh-bio h1 {
+		padding-bottom: 15px;
 	}
 
 }
