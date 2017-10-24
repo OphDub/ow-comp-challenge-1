@@ -239,7 +239,16 @@ a {
 	}
 
 	.tile {
-		height: 32%;
+		height: 34%;
    	width: 33.33%;
+	}
+
+	.bio-tile {
+		width: 66.66%;
+		padding: 0;
+	}
+
+	.tile-2 {
+		background-color: #1d1c29;
 	}
 }
