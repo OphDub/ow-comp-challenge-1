@@ -1,33 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
 	<title>Static Comp Challenge 1 - OphDub</title>
 	<link rel="stylesheet" href="reset.css">
 	<link rel="stylesheet" href="styles.css">
+	<link href="https://fonts.googleapis.com/css?family=Raleway:400,800" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
-	<article class="tile-container">
-		<section class="photo-banner">
-			<i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
-			<i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
-		</section>
-
-		<section class="tile 1">
-			<h1></h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, facere dolore atque aliquam, error, natus voluptatibus quae cupiditate explicabo minima ut quisquam laboriosam voluptate maxime nulla sequi excepturi, culpa voluptas.</p>
-			<button>Awards</button>
-			<button>Contact</button>
-		</section>
-
-		<section class="tile 3"><i class="fa fa-github" aria-hidden="true"></i></section>
-		<section class="tile 4"><i class="fa fa-address-card-o" aria-hidden="true"></i></section>
-		<section class="tile 5"><i class="fa fa-rocket" aria-hidden="true"></i></section>
-		<section class="tile 6"><i class="fa fa-area-chart" aria-hidden="true"></i></section>
-		<section class="tile 7"><i class="fa fa-edge" aria-hidden="true"></i></section>
-		<section class="tile 8"><i class="fa fa-youtube-play" aria-hidden="true"></i></section>
-	</article>
+	<main>
+		<article class="photo-carousel">
+			<section class="photo-banner">
+				<i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
+				<div class="dots">
+					<i class="fa fa-circle" aria-hidden="true"></i>
+					<i class="fa fa-circle" aria-hidden="true"></i>
+					<i class="fa fa-circle" aria-hidden="true"></i>
+				</div>
+				<i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
+			</section>
+		</article>
+		
+		<article class="tile-container">
+			<section class="tile bio-tile">
+				<h1>Josh Bridges</h1>
+				<p>I have a mustache, his name is Mack. I also lift heavy things and I'm the secret behind Octocat.</p>
+				<div class="button-group">
+					<button class="awards-button">
+						<i class="fa fa-file-o" aria-hidden="true"></i>Awards
+					</button>
+					<button class="contact-button">
+						<i class="fa fa-address-card-o" aria-hidden="true"></i>Contact
+					</button>
+				</div>		
+			</section>
+			<section class="tile icon-tiles tile-2">
+				<a href="https://games.crossfit.com/athlete/124483"><i class="fa fa-address-card fa-4x" aria-hidden="true"></i></a>
+				<h2>Profile</h2>
+			</section>
+			<section class="tile icon-tiles tile-3">
+				<a href="https://github.com/octocat"><i class="fa fa-github fa-4x" aria-hidden="true"></i></a>
+				<h2>GitHub</h2>
+			</section>
+			<section class="tile icon-tiles tile-4">
+				<a href="https://www.facebook.com/JoshBridgesCF/"><i class="fa fa-facebook-square fa-4x" aria-hidden="true"></i></a>
+				<h2>Facebook</h2>
+			</section>
+			<section class="tile icon-tiles tile-5">
+				<a href="https://twitter.com/bridgesj3"><i class="fa fa-twitter fa-4x" aria-hidden="true"></i></a>
+				<h2>Twitter</h2>
+			</section>
+			<section class="tile icon-tiles tile-6">
+				<i class="fa fa-area-chart fa-4x" aria-hidden="true"></i>
+				<h2>Chart</h2>
+			</section>
+			<section class="tile icon-tiles tile-7">
+				<a href="https://www.instagram.com/bridgesj3/?hl=en"><i class="fa fa-instagram fa-4x" aria-hidden="true"></i></a>
+				<h2>Instagram</h2>
+			</section>
+			<section class="tile icon-tiles tile-8">
+				<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><i class="fa fa-youtube-play fa-4x" aria-hidden="true"></i></a>
+				<h2>YouTube</h2>
+			</section>
+		</article>
+	</main>
 </body>
 </html>
