@@ -20,7 +20,7 @@ This static comp challenge required creating a website that followed the basic l
 
 ## Comp Challenge Image
 
-![Comp Challenge Sample Image](https://ophdub.github.io/ow-comp-challenge-1/)
+![Comp Challenge Sample Image](https://imgur.com/a/MkFEl)
 
 ## Authors
 
