@@ -218,6 +218,14 @@ a {
 		padding-bottom: 15px;
 	}
 
+	.dots {
+		font-size: 15px;
+		position: absolute;
+		left: 45%;
+		bottom: 5%;
+		color: black;
+		opacity: 0.5;
+	}
 }
 
 @media screen and (min-width: 960px) {
@@ -256,9 +264,8 @@ a {
 	}
 
 	.dots {
-		font-size: 15px;
-		/*position: absolute;
-		right: -50%;*/
+		font-size: 20px;
+		position: absolute;
 		top: 5%;
 		color: black;
 		opacity: 0.5;
