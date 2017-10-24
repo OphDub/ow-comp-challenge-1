@@ -131,6 +131,7 @@ a {
 .tile a {
 	color: #FFFFFF;
 	flex-direction: column;
+	margin-bottom: 15px;
 }
 
 .icon-tiles i:hover {
