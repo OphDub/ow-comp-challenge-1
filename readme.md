@@ -25,11 +25,3 @@ This static comp challenge required creating a website that followed the basic l
 ## Authors
 
 * **Ophus Wong**  - [OphDub](https://github.com/OphDub)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* TBD
