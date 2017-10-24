@@ -20,7 +20,7 @@ This static comp challenge required creating a website that followed the basic l
 
 ## Comp Challenge Image
 
-![Comp Challenge Sample Image](https://imgur.com/a/MkFEl)
+![Comp Challenge Sample Image](https://i.imgur.com/F2n7pSF.jpg)
 
 ## Authors
 
